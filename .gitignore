@@ -1,0 +1,4 @@
+# git should ignore all changes in this files
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.backup
